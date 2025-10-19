@@ -51,9 +51,4 @@
 </picture>
 
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=sashagallery&color=ff69b4&style=for-the-badge)
-
-✨ *"Code with passion, create with love"* 💖
-
 </div>
