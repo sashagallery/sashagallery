@@ -52,7 +52,7 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sashagallery&color=ff69b4&style=for-the-badge)
 
 ✨ *"Code with passion, create with love"* 💖
 
